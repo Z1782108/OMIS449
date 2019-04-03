@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\WorldSeriesProject\WorldSeriesProject\bin\Debug\WorldSeriesProject.exe.config
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\WorldSeriesProject\WorldSeriesProject\bin\Debug\WorldSeriesProject.exe
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\WorldSeriesProject\WorldSeriesProject\bin\Debug\WorldSeriesProject.pdb
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\WorldSeriesProject\WorldSeriesProject\obj\Debug\WorldSeriesProject.csprojAssemblyReference.cache
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\WorldSeriesProject\WorldSeriesProject\obj\Debug\WorldSeriesProject.Form1.resources
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\WorldSeriesProject\WorldSeriesProject\obj\Debug\WorldSeriesProject.Properties.Resources.resources
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\WorldSeriesProject\WorldSeriesProject\obj\Debug\WorldSeriesProject.csproj.GenerateResource.cache
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\WorldSeriesProject\WorldSeriesProject\obj\Debug\WorldSeriesProject.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\WorldSeriesProject\WorldSeriesProject\obj\Debug\WorldSeriesProject.exe
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\WorldSeriesProject\WorldSeriesProject\obj\Debug\WorldSeriesProject.pdb
