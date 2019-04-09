@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\VendingMachineSimulator\VendingMachineSimulator\bin\Debug\VendingMachineSimulator.exe.config
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\VendingMachineSimulator\VendingMachineSimulator\bin\Debug\VendingMachineSimulator.exe
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\VendingMachineSimulator\VendingMachineSimulator\bin\Debug\VendingMachineSimulator.pdb
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\VendingMachineSimulator\VendingMachineSimulator\obj\Debug\VendingMachineSimulator.csprojAssemblyReference.cache
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\VendingMachineSimulator\VendingMachineSimulator\obj\Debug\VendingMachineSimulator.Form1.resources
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\VendingMachineSimulator\VendingMachineSimulator\obj\Debug\VendingMachineSimulator.Properties.Resources.resources
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\VendingMachineSimulator\VendingMachineSimulator\obj\Debug\VendingMachineSimulator.csproj.GenerateResource.cache
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\VendingMachineSimulator\VendingMachineSimulator\obj\Debug\VendingMachineSimulator.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\VendingMachineSimulator\VendingMachineSimulator\obj\Debug\VendingMachineSimulator.exe
+C:\Users\David\Documents\Semester 8\OMIS 449\Visual Studio Projects\VendingMachineSimulator\VendingMachineSimulator\obj\Debug\VendingMachineSimulator.pdb
